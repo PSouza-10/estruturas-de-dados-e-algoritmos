@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 
 
 int factorial(int n)
@@ -16,6 +16,6 @@ int factorial(int n)
 
 int main ()
 {
-    int cu = 4;
-    printf("%d\n", factorial(cu));
+    int teste = 4;
+    printf("%d\n", factorial(teste));
 }
